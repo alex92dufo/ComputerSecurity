@@ -1,1 +1,1 @@
-In this programme, we had to complete java code to decrypt an encrypted cipher using Vigenère technics
+In this programme, we had to complete java code to decrypt an encrypted cipher text using Vigenère technics
